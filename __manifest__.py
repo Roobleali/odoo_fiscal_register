@@ -2,10 +2,22 @@
 {
     'name': "Fiscal Cash Register",
     'summary': "Automatically download receipt as TXT file after order completion",
+    'description': """
+Fiscal Cash Register for Point of Sale
+===================================
+
+This module enables automatic receipt download in TXT format after order completion.
+Key features:
+- Automatic receipt generation
+- TXT file download
+- Fiscal operations tracking
+- Integration with POS system
+""",
     'author': "Salut Tech",
     'website': "https://saluttech.ro/",
-    'category': 'Point of Sale',
-    'version': '0.1',
+    'license': 'OPL-1',
+    'category': 'Localization',
+    'version': '17.0.1.0.0',
     'depends': ['point_of_sale'],
     'data': [
                 'security/ir.model.access.csv',
