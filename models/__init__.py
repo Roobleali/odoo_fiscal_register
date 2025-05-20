@@ -5,3 +5,4 @@ from . import pos_config
 from . import fiscal_logger
 from . import pos_session
 from . import payment_method
+from . import product

@@ -25,6 +25,7 @@ Key features:
         'views/pos_config_view.xml',
         'views/fiscal_operation_log_views.xml',
         'views/payment_method_form.xml',
+        'views/product_views.xml',
 
     ],
     'assets': {
